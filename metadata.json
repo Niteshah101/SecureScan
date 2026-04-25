@@ -1,0 +1,6 @@
+{
+  "name": "SecureScan",
+  "description": "Software vulnerability scanner powered by NVD and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

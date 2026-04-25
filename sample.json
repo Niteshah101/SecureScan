@@ -1,0 +1,12 @@
+[
+  { "name": "openssh", "version": "8.8" },
+  { "name": "log4j", "version": "2.14.1" },
+  { "name": "node.js", "version": "18.0.0" },
+  { "name": "react", "version": "17.0.1" },
+  { "name": "apache", "version": "2.4.49" },
+  { "name": "nginx", "version": "1.21.0" },
+  { "name": "mysql", "version": "8.0.23" },
+  { "name": "postgresql", "version": "13.2" },
+  { "name": "redis", "version": "6.0.9" },
+  { "name": "kubernetes", "version": "1.21.0" }
+]
