@@ -23,9 +23,7 @@ function App() {
           </div>
           
           <nav className="hidden md:flex items-center gap-8">
-            <a href="#" className="text-sm font-medium text-zinc-500 hover:text-zinc-950 dark:hover:text-zinc-50 transition-colors">Documentation</a>
-            <a href="#" className="text-sm font-medium text-zinc-500 hover:text-zinc-950 dark:hover:text-zinc-50 transition-colors">NVD API</a>
-            <a href="#" className="text-sm font-medium text-zinc-500 hover:text-zinc-950 dark:hover:text-zinc-50 transition-colors">About AI Analysis</a>
+            
           </nav>
 
           <div className="flex items-center gap-3">

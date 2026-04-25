@@ -1,0 +1,12 @@
+[
+  { "name": "express", "version": "4.21.2" },
+  { "name": "axios", "version": "1.7.9" },
+  { "name": "vite", "version": "6.2.0" },
+  { "name": "react", "version": "19.0.0" },
+  { "name": "typescript", "version": "5.8.2" },
+  { "name": "dotenv", "version": "17.2.3" },
+  { "name": "lucide-react", "version": "0.546.0" },
+  { "name": "motion", "version": "12.23.24" },
+  { "name": "tailwind-merge", "version": "3.0.1" },
+  { "name": "clsx", "version": "2.1.1" }
+]
