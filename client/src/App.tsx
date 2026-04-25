@@ -108,7 +108,7 @@ export default function App() {
         <div className="brand">
           <Shield size={28} />
           <div>
-            <h1>Sentinel</h1>
+            <h1>SecureScan</h1>
             <p>CVE Intelligence</p>
           </div>
         </div>
