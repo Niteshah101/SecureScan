@@ -43,7 +43,7 @@ C. API KEYS CONFIGURATION
 
 D. RUNNING THE APP
    - Start development mode: 'npm run dev'
-   - The app will be available at: http://localhost:3000
+   - will run on localhost
 
 5. JSON UPLOAD FORMAT
 For the bulk upload feature, use the following format:
